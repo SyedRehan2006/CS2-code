@@ -15,7 +15,7 @@ public:
             cout << "You have selected Team Terrorist" << endl;
             cout << "Player Created" << endl;
         }
-        if (teamchoice == 2)
+        else if (teamchoice == 2)
         {
             cout << "You have selected Team Counter-Terrorist" << endl;
             cout << "Player Created" << endl;
@@ -28,8 +28,8 @@ public:
     }
     void weaponsSelection()
     {
-        int primarywapon;
-        int secondaryeapon;
+        int primaryweapon;
+        int secondaryweapon;
         int meleeweapon;
         
     }

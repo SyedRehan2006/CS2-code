@@ -1,0 +1,10 @@
+# Compiled binaries
+CS2
+*.exe
+*.out
+*.o
+
+# Build artifacts
+*.a
+*.so
+*.dylib
